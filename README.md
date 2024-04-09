@@ -1,10 +1,12 @@
 # Data Scientist
 
-### Education
+
+### Projects
 
 
 ### Work experience
 
 
-### Projects
+### Education
+
 
