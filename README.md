@@ -14,7 +14,7 @@
 
 ## Projects
 
-### Build Classification Algorithms for Digital Transformation[Banking]
+### [Build Classification Algorithms for Digital Transformation](Digital_transformation_in_Banking_sector_KJ.ipynb)
 
 Bank XYZ has a growing customer base where the majority of them are liability customers (depositors) vs. borrowers (asset customers). The bank is interested in expanding the borrower’s base rapidly to bring in more business via loan interests.
 
