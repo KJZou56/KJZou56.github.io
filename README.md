@@ -39,9 +39,9 @@ Libraries: pandas, numpy, matplotlib, statsmodels, seaborn, scikit-learn, pyodbc
 
 
 ## Education
-Certificate，Data Science, UCLA - Los Angeles, CA (GPA: 4.0/4.0) Sep. 2023 to present
+Certificate，Data Science, UCLA - Los Angeles, CA (GPA: 4.0/4.0)
 
-Master，Accounting，Duquesne University - Pittsburgh, PA (GPA: 3.91/4.0) Aug. 2018 to May 2019
+Master，Accounting，Duquesne University - Pittsburgh, PA (GPA: 3.91/4.0)
 
-Bachelor，Accountancy，Duquesne University - Pittsburgh, PA (GPA: 3.58/4.0) Jan. 2015 to May 2018
+Bachelor，Accountancy，Duquesne University - Pittsburgh, PA (GPA: 3.58/4.0)
 
