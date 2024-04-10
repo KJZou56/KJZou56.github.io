@@ -57,23 +57,15 @@ Such problems can be tackled with Data Science and its importance, along with Ma
 ### Self-employed (Jul. 2020 to Mar. 2022)
 - E-commerce (Amazon & Shopify)
 
-### Associate Business Consultant, Ernst & Young, Hong Kong Sep. 2019 to May 2020
-- Led and designed internal training sessions on Microsoft Word, PowerPoint and Excel in English to EY teams
+### Business Consultant, Ernst & Young, Hong Kong (Sep. 2019 to May 2020)
+- Led and designed internal training sessions on Microsoft Word, PowerPoint and Excel to EY teams
 - Performed culture assessment for a large private bank as part of responses to regulators
 - Assisted on growth strategy development for a large insurance company
 - Assisted a legal audit engagement of a large Private Equity Fund
 - Assisted in development of a review approach regarding internal controls over financial reporting for a large insurance company
 
 ## Education
-- Certificate，Data Science, UCLA - Los Angeles (March 2024)
-
-GPA: 4.0/4.0
-
-- M.S.，Accountancy，Duquesne University - Pittsburgh (May 2019)
-
-GPA: 3.91/4.0
-
-- B.S.，Accounting，Duquesne University - Pittsburgh (May 2018)
-
-GPA: 3.58/4.0
+- Certificate，Data Science, UCLA - Los Angeles (March 2024) GPA:4.0/4.0
+- M.S.，Accountancy，Duquesne University - Pittsburgh (May 2019) GPA:3.9/4.0
+- B.S.，Accounting，Duquesne University - Pittsburgh (May 2018) GPA:3.6/4.0
 
