@@ -26,7 +26,7 @@ Language: Python
 
 Libraries: numpy, pandas, matplotlib, seaborn, sklearn, pickle, imblearn
 
-[Predictive Analytics Project for Working Capital Optimization](https://github.com/KJZou56/Working-Capital-Optimization)
+### [Predictive Analytics Project for Working Capital Optimization](https://github.com/KJZou56/Working-Capital-Optimization)
 
 Working capital optimization involves strategically managing a company's current assets and liabilities to enhance operational efficiency and financial health. It focuses on finding the right balance between accounts receivable (AR) and accounts payable (AP) to ensure sufficient liquidity while minimizing costs and risks.
 
