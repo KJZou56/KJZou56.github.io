@@ -40,6 +40,9 @@ Language: Python
 
 Libraries: pandas, numpy, matplotlib, statsmodels, seaborn
 
+### [Credit card fraud as a classification problem]
+
+It is vital that credit card companies are able to identify fraudulent credit card transactions so that customers are not charged for items that they did not purchase. Such problems can be tackled with Data Science and its importance, along with Machine Learning, cannot be overstated. This project intends to illustrate the modelling of a data set using machine learning with Credit Card Fraud Detection.
 ## Work experience
 
 
