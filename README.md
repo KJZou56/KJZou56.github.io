@@ -30,7 +30,16 @@ Language: Python
 
 Libraries: pandas, numpy, matplotlib, statsmodels, seaborn, scikit-learn, pyodbc
 
-[Machine Learning project for Retail Price Optimization]
+### [Machine Learning project for Retail Price Optimization](https://github.com/KJZou56/price-optimization)
+
+Pricing a product is a crucial aspect of any business. A lot of thought process is put into it. There are different strategies to estimate prices for different kinds of products. There are products whose sales are pretty sensitive to their costs, and as such, a slight change in their price can lead to a noticeable difference in their sales. At the same time, there are also products whose sales are not much affected by their prices - these tend to be luxury items or necessities (like certain medicines). 
+
+In this machine learning pricing optimization case study, we will take the data of a cafe and, based on their past sales, identify the optimal prices for their items based on the price elasticity of the items to maximize the profit.
+
+Language: Python
+
+Libraries: pandas, numpy, matplotlib, statsmodels, seaborn
+
 ## Work experience
 
 
