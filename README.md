@@ -1,10 +1,6 @@
 # Data Scientist | CPA
-- Extensive expertise in financial data analysis
-- A deep commitment to leveraging data for informed decision-making
-- Proficient in SQL, R, and Python (Programming has never been easier with AI now) 
-- Love to learn, with the instinct to problem solve (The more you grow, the more you can give)
-- A clear thinker / An effective communicator (Clarity of thoughts precedes clarity of communication)
-- Bilingual in English and Mandarin
+### Technical Skills: Python, SQL, R
+### Bilingual: English, Mandarin
 
 ## Projects
 
@@ -46,14 +42,30 @@ Like any other technology that has been introduced in the world, the internet al
 
 Such problems can be tackled with Data Science and its importance, along with Machine Learning, cannot be overstated. This project intends to illustrate the modelling of a data set using machine learning with Credit Card Fraud Detection.
 
-
 ## Work experience
+### Economics Instructor, Freelancing (Jan. 2023 to Present)
+• Taught economics and accounting to high school & college students
+• Developed and adapted teaching materials/approaches to suit diverse learning needs
 
+### Professional Development (Apr. 2022 to Dec. 2022)
+• Passed all 4 parts of the CPA exam and obtained the license in 100 days
+• Obtained Professional Scrum Master I from scrum.org 
+• Obtained Google Data Analytics Certificate 
+
+### Self-employed (Jul. 2020 to Mar. 2022)
+• E-commerce (Amazon & Shopify)
+
+### Associate Business Consultant, Ernst & Young, Hong Kong Sep. 2019 to May 2020
+• Led and designed internal training sessions on Microsoft Word, PowerPoint and Excel in English to EY teams
+• Performed culture assessment for a large private bank as part of responses to regulators
+• Assisted on growth strategy development for a large insurance company
+• Assisted a legal audit engagement of a large Private Equity Fund
+• Assisted in development of a review approach regarding internal controls over financial reporting for a large insurance company
 
 ## Education
-Certificate，Data Science, UCLA - Los Angeles, CA (GPA: 4.0/4.0)
+Certificate，Data Science, UCLA - Los Angeles, CA (GPA: 4.0/4.0) March 2024
 
-Master，Accountancy，Duquesne University - Pittsburgh, PA (GPA: 3.91/4.0)
+Master，Accountancy，Duquesne University - Pittsburgh, PA (GPA: 3.91/4.0) May 2019
 
-Bachelor，Accounting，Duquesne University - Pittsburgh, PA (GPA: 3.58/4.0)
+Bachelor，Accounting，Duquesne University - Pittsburgh, PA (GPA: 3.58/4.0) May 2018
 
