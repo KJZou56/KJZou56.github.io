@@ -65,9 +65,12 @@ Such problems can be tackled with Data Science and its importance, along with Ma
 • Assisted in development of a review approach regarding internal controls over financial reporting for a large insurance company
 
 ## Education
-Certificate，Data Science, UCLA - Los Angeles, CA (GPA: 4.0/4.0) March 2024
+Certificate，Data Science, UCLA - Los Angeles 
+(GPA: 4.0/4.0) March 2024
 
-Master，Accountancy，Duquesne University - Pittsburgh, PA (GPA: 3.91/4.0) May 2019
+M.S.，Accountancy，Duquesne University - Pittsburgh 
+(GPA: 3.91/4.0) May 2019
 
-Bachelor，Accounting，Duquesne University - Pittsburgh, PA (GPA: 3.58/4.0) May 2018
+B.S.，Accounting，Duquesne University - Pittsburgh 
+(GPA: 3.58/4.0) May 2018
 
