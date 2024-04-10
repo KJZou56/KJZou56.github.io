@@ -26,9 +26,22 @@ Language: Python
 
 Libraries: numpy, pandas, matplotlib, seaborn, sklearn, pickle, imblearn
 
+[Predictive Analytics Project for Working Capital Optimization](https://github.com/KJZou56/Working-Capital-Optimization)
+
+Working capital optimization involves strategically managing a company's current assets and liabilities to enhance operational efficiency and financial health. It focuses on finding the right balance between accounts receivable (AR) and accounts payable (AP) to ensure sufficient liquidity while minimizing costs and risks.
+
+The project aims to optimize working capital management by leveraging accounts receivable and payable data. Through predictive analysis, the project aims to accurately forecast the timing of customer and supplier payments, enabling the company to ensure cash flow and liquidity within a specified period.
+
+Language: Python
+
+Libraries: pandas, numpy, matplotlib, statsmodels, seaborn, scikit-learn, pyodbc
 ## Work experience
 
 
 ## Education
+Certificate，Data Science, UCLA - Los Angeles, CA (GPA: 4.0/4.0) Sep. 2023 to present
 
+Master，Accounting，Duquesne University - Pittsburgh, PA (GPA: 3.91/4.0) Aug. 2018 to May 2019
+
+Bachelor，Accountancy，Duquesne University - Pittsburgh, PA (GPA: 3.58/4.0) Jan. 2015 to May 2018
 
