@@ -1,6 +1,8 @@
 # Data Scientist | CPA
-### Technical Skills: Python, SQL, R
-### Bilingual: English, Mandarin
+
+**Technical Skills: Python, SQL, R**
+
+**Bilingual: English, Mandarin**
 
 ## Projects
 
