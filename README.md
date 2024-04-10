@@ -41,7 +41,7 @@ Libraries: pandas, numpy, matplotlib, statsmodels, seaborn, scikit-learn, pyodbc
 ## Education
 Certificate，Data Science, UCLA - Los Angeles, CA (GPA: 4.0/4.0)
 
-Master，Accounting，Duquesne University - Pittsburgh, PA (GPA: 3.91/4.0)
+Master，Accountancy，Duquesne University - Pittsburgh, PA (GPA: 3.91/4.0)
 
-Bachelor，Accountancy，Duquesne University - Pittsburgh, PA (GPA: 3.58/4.0)
+Bachelor，Accounting，Duquesne University - Pittsburgh, PA (GPA: 3.58/4.0)
 
