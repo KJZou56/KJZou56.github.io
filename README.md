@@ -1,10 +1,10 @@
 # Data Scientist | CPA
-• Extensive expertise in financial data analysis
-• A deep commitment to leveraging data for informed decision-making
-• Proficient in SQL, R, and Python (Programming has never been easier with AI now) 
-• Love to learn, with the instinct to problem solve (The more you grow, the more you can give)
-• A clear thinker / An effective communicator (Clarity of thoughts precedes clarity of communication)
-• Bilingual in English and Mandarin
+- Extensive expertise in financial data analysis
+- A deep commitment to leveraging data for informed decision-making
+- Proficient in SQL, R, and Python (Programming has never been easier with AI now) 
+- Love to learn, with the instinct to problem solve (The more you grow, the more you can give)
+- A clear thinker / An effective communicator (Clarity of thoughts precedes clarity of communication)
+- Bilingual in English and Mandarin
 
 ## Projects
 
