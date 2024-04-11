@@ -44,6 +44,10 @@ Like any other technology that has been introduced in the world, the internet al
 
 Such problems can be tackled with Data Science and its importance, along with Machine Learning, cannot be overstated. This project intends to illustrate the modelling of a data set using machine learning with Credit Card Fraud Detection.
 
+Language: Python
+
+Libraries: pandas, numpy, matplotlib, seaborn, sklearn, imblearn
+
 ## Work experience
 ### Economics Instructor, Freelancing (Jan. 2023 to Present)
 - Taught economics and accounting to high school & college students
