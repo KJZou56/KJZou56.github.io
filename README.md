@@ -7,11 +7,7 @@
 ## Projects
 
 ### [US Census Median Household Income Visualized By Tract](https://github.com/KJZou56/us_census_median_household_income_visualized_by_tract)
-![newplot_state](https://github.com/KJZou56/KJZou56.github.io/assets/150881506/94d74fdb-8975-442f-96af-ac735b58d750)
-
 ![newplot_county](https://github.com/KJZou56/KJZou56.github.io/assets/150881506/ca0249e7-72e1-4ae5-8313-bee2f12dada7)
-
-
 A US census tract is a small, relatively permanent geographic subdivision within a county (or similar statistical entity). Here's why they're valuable for analysis compared to counties or states:
 
 Granularity 🔍: Counties and states are large areas, and data within them can be quite diverse. Census tracts provide a more focused view, allowing you to analyze smaller areas with more homogenous populations or characteristics.
