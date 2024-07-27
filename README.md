@@ -22,19 +22,11 @@ A campaign that the bank ran in the last quarter showed an average single-digit 
 
 The aim is to build a machine learning model to perform focused digital marketing by predicting the potential customers who will convert from liability customers to asset customers.
 
-Language: Python
-
-Libraries: numpy, pandas, matplotlib, seaborn, sklearn, pickle, imblearn
-
 ### [Predictive Analytics Project for Working Capital Optimization](https://github.com/KJZou56/Working-Capital-Optimization)
 
 Working capital optimization involves strategically managing a company's current assets and liabilities to enhance operational efficiency and financial health. It focuses on finding the right balance between accounts receivable (AR) and accounts payable (AP) to ensure sufficient liquidity while minimizing costs and risks.
 
 The project aims to optimize working capital management by leveraging accounts receivable and payable data. Through predictive analysis, the project aims to accurately forecast the timing of customer and supplier payments, enabling the company to ensure cash flow and liquidity within a specified period.
-
-Language: Python
-
-Libraries: pandas, numpy, matplotlib, statsmodels, seaborn, scikit-learn, pyodbc
 
 ### [Machine Learning project for Retail Price Optimization](https://github.com/KJZou56/price-optimization)
 
@@ -42,19 +34,11 @@ Pricing a product is a crucial aspect of any business. A lot of thought process 
 
 In this machine learning pricing optimization case study, we will take the data of a cafe and, based on their past sales, identify the optimal prices for their items based on the price elasticity of the items to maximize the profit.
 
-Language: Python
-
-Libraries: pandas, numpy, matplotlib, statsmodels, seaborn
-
 ### [Credit card fraud as a classification problem](https://github.com/KJZou56/credit-card-fraud-detection)
 
 Like any other technology that has been introduced in the world, the internet also comes with pros and cons. All of us enjoy the pros as the internet has changed our lifestyle by enhancing our communication. But, at the same time, we are witnessing digital frauds, which include fraudulent transactions through stolen credit cards. Credit card companies must identify fraudulent credit card transactions so that customers are not charged for items that they did not purchase. And this project is all about detecting such fraudulent transactions with the help of customers' attributes and transactions information.
 
-Such problems can be tackled with Data Science and its importance, along with Machine Learning, cannot be overstated. This project intends to illustrate the modelling of a data set using machine learning with Credit Card Fraud Detection.
-
-Language: Python
-
-Libraries: pandas, numpy, matplotlib, seaborn, sklearn, imblearn
+Such problems can be tackled with Data Science along with Machine Learning, and its importance cannot be overstated. This project intends to illustrate the modelling of a data set using machine learning for Credit Card Fraud Detection.
 
 ## Work experience
 ### Economics Instructor, Freelancing (Jan. 2023 to Present)
@@ -66,12 +50,17 @@ Libraries: pandas, numpy, matplotlib, seaborn, sklearn, imblearn
 - Obtained Professional Scrum Master I from scrum.org 
 - Obtained Google Data Analytics Certificate 
 
-### Self-employed (Jul. 2020 to Mar. 2022)
-- E-commerce (Amazon & Shopify)
+### Entrepeneur, yourtrouvailles.com (Jul. 2020 to Mar. 2022)
+- Secured $100,000 in funding to turn around a loss-making optometry store
+- Established an online presence with a new website and Amazon stores
+- Led a team of 5, overseeing daily operations, customer service, and hiring
+- Collaborated with manufacturers to ensure product quality and supply
+- Conducted market research to refine offerings and improve customer satisfaction
+**Lessons Learned:** Business ownership has been one of the hardest things I've ever experienced. One can never understand without having done it.
 
 ### Business Consultant, Ernst & Young, Hong Kong (Sep. 2019 to May 2020)
 - Led and designed internal training sessions on Microsoft Word, PowerPoint and Excel to EY teams
-- Performed culture assessment for a large private bank as part of responses to regulators
+- Performed a culture assessment for a large private bank as part of responses to regulators
 - Assisted on growth strategy development for a large insurance company
 - Assisted a legal audit engagement of a large Private Equity Fund
 - Assisted in development of a review approach regarding internal controls over financial reporting for a large insurance company
