@@ -57,7 +57,7 @@ Such problems can be tackled with Data Science along with Machine Learning, and 
 - Collaborated with manufacturers to ensure product quality and supply
 - Conducted market research to refine offerings and improve customer satisfaction
   
-**Lessons Learned: Business ownership has been one of the hardest things I've ever experienced. One can never understand without having done it.**
+**Lessons Learned: Business ownership has been one of the hardest things I've ever experienced. One can never understand without having done it. One that survived it is never the same**
 
 ### Business Consultant, Ernst & Young, Hong Kong (Sep. 2019 to May 2020)
 - Led and designed internal training sessions on Microsoft Word, PowerPoint and Excel to EY teams
