@@ -1,4 +1,4 @@
-# Data Scientist | CPA
+# CPA | Data Scientist
 
 **Technical Skills: Python, SQL, R**
 
@@ -8,15 +8,9 @@
 
 ### [US Census Median Household Income Visualized By Tract](https://github.com/KJZou56/us_census_median_household_income_visualized_by_tract)
 ![newplot_county](https://github.com/KJZou56/KJZou56.github.io/assets/150881506/ca0249e7-72e1-4ae5-8313-bee2f12dada7)
-A US census tract is a small, relatively permanent geographic subdivision within a county (or similar statistical entity). Here's why they're valuable for analysis compared to counties or states:
+Real estate invesment is hyper local. This is why it is very important to go down to US census tract. As a real estate investor, you don't want to only know which state or county to invest in, but specific neighborhood or area that you want to target.
 
-Granularity 🔍: Counties and states are large areas, and data within them can be quite diverse. Census tracts provide a more focused view, allowing you to analyze smaller areas with more homogenous populations or characteristics.
-
-Targeted Analysis 🎯: This finer detail helps you delve deeper into specific neighborhoods or communities within a larger region.
-
-Comparisons 🏘️: You can compare data across different census tracts within a county or even across metropolitan areas to identify trends or variations.
-
-Standardization 🧐: Census tracts are delineated consistently across the US, making them ideal for standardized comparisons between different locations.
+The goal of this project is show how to get US census tracts and median income for the US census, and, plot it for better visulization of local trends and patterns.
 
 Think of it like zooming in on a map. Counties and states are like whole continents, while census tracts are like city districts. By zooming in, you can see the finer details and patterns that might be hidden at a larger scale.
 
