@@ -39,35 +39,3 @@ In this machine learning pricing optimization case study, we will take the data 
 Like any other technology that has been introduced in the world, the internet also comes with pros and cons. All of us enjoy the pros as the internet has changed our lifestyle by enhancing our communication. But, at the same time, we are witnessing digital frauds, which include fraudulent transactions through stolen credit cards. Credit card companies must identify fraudulent credit card transactions so that customers are not charged for items that they did not purchase. And this project is all about detecting such fraudulent transactions with the help of customers' attributes and transactions information.
 
 Such problems can be tackled with Data Science along with Machine Learning, and its importance cannot be overstated. This project intends to illustrate the modelling of a data set using machine learning for Credit Card Fraud Detection.
-
-## Work experience
-### Economics Instructor, Freelancing (Jan. 2023 to Present)
-- Taught economics and accounting to high school & college students
-- Developed and adapted teaching materials/approaches to suit diverse learning needs
-
-### Professional Development (Apr. 2022 to Dec. 2022)
-- Passed all 4 parts of the CPA exam and obtained the license in 100 days
-- Obtained Professional Scrum Master I from scrum.org 
-- Obtained Google Data Analytics Certificate 
-
-### Entrepeneur, yourtrouvailles.com (Jul. 2020 to Mar. 2022)
-- Secured $100,000 in funding to turn around a loss-making optometry store
-- Established an online presence with a new website and Amazon stores
-- Led a team of 5, overseeing daily operations, customer service, and hiring
-- Collaborated with manufacturers to ensure product quality and supply
-- Conducted market research to refine offerings and improve customer satisfaction
-  
-**Lessons Learned: Business ownership has been one of the hardest things I've ever experienced. One can never understand without having done it. One that survived it is never the same.**
-
-### Business Consultant, Ernst & Young, Hong Kong (Sep. 2019 to May 2020)
-- Led and designed internal training sessions on Microsoft Word, PowerPoint and Excel to EY teams
-- Performed a culture assessment for a large private bank as part of responses to regulators
-- Assisted on growth strategy development for a large insurance company
-- Assisted a legal audit engagement of a large Private Equity Fund
-- Assisted in development of a review approach regarding internal controls over financial reporting for a large insurance company
-
-## Education
-- Certificate，Data Science, UCLA - Los Angeles (March 2024) GPA:4.0/4.0
-- M.S.，Accountancy，Duquesne University - Pittsburgh (May 2019) GPA:3.9/4.0
-- B.S.，Accounting，Duquesne University - Pittsburgh (May 2018) GPA:3.6/4.0
-
